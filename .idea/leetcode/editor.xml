@@ -17,10 +17,10 @@
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[654]Maximum Binary Tree.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[654]Maximum Binary Tree.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[654]Maximum Binary Tree.md" />
               <option name="frontendQuestionId" value="leetcode.com654" />
               <option name="host" value="leetcode.com" />
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[654]Maximum Binary Tree.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[654]Maximum Binary Tree.py" />
               <option name="titleSlug" value="maximum-binary-tree" />
             </LeetcodeEditor>
           </value>
@@ -33,6 +33,61 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[92]Reverse Linked List II.py" />
               <option name="titleSlug" value="reverse-linked-list-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[998]Maximum Binary Tree II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[998]Maximum Binary Tree II.md" />
+              <option name="frontendQuestionId" value="leetcode.com998" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[998]Maximum Binary Tree II.py" />
+              <option name="titleSlug" value="maximum-binary-tree-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[124]Binary Tree Maximum Path Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[124]Binary Tree Maximum Path Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com124" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[124]Binary Tree Maximum Path Sum.py" />
+              <option name="titleSlug" value="binary-tree-maximum-path-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[297]Serialize and Deserialize Binary Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[297]Serialize and Deserialize Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com297" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[297]Serialize and Deserialize Binary Tree.py" />
+              <option name="titleSlug" value="serialize-and-deserialize-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[654]Maximum Binary Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[654]Maximum Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com654" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[654]Maximum Binary Tree.py" />
+              <option name="titleSlug" value="maximum-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[998]Maximum Binary Tree II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[998]Maximum Binary Tree II.md" />
+              <option name="frontendQuestionId" value="leetcode.com998" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[998]Maximum Binary Tree II.py" />
+              <option name="titleSlug" value="maximum-binary-tree-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
