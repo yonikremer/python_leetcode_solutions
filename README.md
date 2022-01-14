@@ -1,2 +1,2 @@
-# python_leetcode_solutions
-My solutions to various leetcode questions
+# Python Leetcode Solutions
+My solutions to various leetcode questions using Python 3.9
