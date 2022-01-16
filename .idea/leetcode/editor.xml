@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[987]Vertical Order Traversal of a Binary Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[987]Vertical Order Traversal of a Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com987" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[987]Vertical Order Traversal of a Binary Tree.py" />
+              <option name="titleSlug" value="vertical-order-traversal-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[998]Maximum Binary Tree II.py">
           <value>
             <LeetcodeEditor>
